@@ -1,0 +1,21 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Marvel Champions Keyword Reference</title>
+    <link rel="stylesheet" href="/static/styles.css" type="text/css">
+  </head>
+
+  <body>
+    <main>
+      <ul>
+        {% for keyword in search.pages("url^=/keyword/") | data %}
+          <a href="{{keyword.url}}">
+            <li>
+              {{ keyword.title }}
+            </li>
+          </a>
+        {% endfor %}
+      </ul>
+    </main>
+  </body>
+</html>

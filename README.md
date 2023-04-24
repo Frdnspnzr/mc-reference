@@ -1,0 +1,1 @@
+A simple, static site with all the keywords used in [Marvel Champions](https://www.fantasyflightgames.com/en/products/marvel-champions-the-card-game/). Optimized for mobile. Currently only available in German, as there are already great pages doing the same for other languages. One day I may build multilanguage support.
