@@ -8,7 +8,7 @@
   <body>
     <main>
       <ul>
-        {% for keyword in search.pages("url^=/keyword/") | data %}
+        {% for keyword in search.pages("url^=/keyword/", "title") | data %}
           <a href="{{keyword.url}}">
             <li>
               {{ keyword.title }}
