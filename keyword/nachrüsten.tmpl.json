@@ -1,4 +1,5 @@
 {
   "title": "Nachrüsten",
-  "content": "Nachdem ein Spieler eine Karte mit dem Schlüsselwort Nachrüsten aufgedeckt hat,deckt er eine zusätzliche Begegnungskarte auf."
+  "content": "Nachdem ein Spieler eine Karte mit dem Schlüsselwort Nachrüsten aufgedeckt hat,deckt er eine zusätzliche Begegnungskarte auf.",
+  "extended": "<p>Nachdem eine Begegnungskarte mit dem Schlüsselwort Nachrüsten aufgedeckt worden ist, deckt der Spieler, der die Karte abhandelt, eine zusätzliche Begegnungskarte oben vom Begegnungsdeck auf.</p><ul><li>Die Abhandlung der ursprünglichen Karte muss zuerst beendet sein, bevor die zusätzliche Karte aufgedeckt wird.</li></ul>"
 }

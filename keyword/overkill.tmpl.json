@@ -1,4 +1,5 @@
 {
   "title": "Overkill",
-  "content": "Überschüssiger Schaden durch Angriffe mit dem Schlüsselwort Overkill wird der Identität bzw. dem Schurken zugefügt."
+  "content": "Überschüssiger Schaden durch Angriffe mit dem Schlüsselwort Overkill wird der Identität bzw. dem Schurken zugefügt.",
+  "extended": "<p>Falls einem Verbündeten eine beliebige Menge an überschüssigem Schaden durch einen Angriff mit dem  Overkill zugefügt wird, wird gleichzeitig der Identität des Spielers, der den Verbündeten kontrolliert, Schaden in Höhe des überschüssigen Schadens zugefügt.</p><p>Falls einem Schergen eine beliebige Menge an überschüssigem Schaden durch einen Angriff mit dem Schlüsselwort Overkill zugefügt wird, wird gleichzeitig dem Schurken Schaden in Höhe des überschüssigen Schadens zugefügt</p><ul><li>Schaden, der einem Schurken oder einer Identität durch das Schlüsselwort Overkill zugefügt wird, ist kein Angriff gegen jenen Charakter</li></ul>"
 }

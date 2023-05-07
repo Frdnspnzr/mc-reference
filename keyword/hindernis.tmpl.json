@@ -1,4 +1,5 @@
 {
   "title": "Hindernis X",
-  "content": "Sobald ein Spieler eine Karte mit dem Schlüsselwort Hindernis X aufdeckt, platziert der Spieler X Bedrohung auf der Karte."
+  "content": "Sobald ein Spieler eine Karte mit dem Schlüsselwort Hindernis X aufdeckt, platziert der Spieler X Bedrohung auf der Karte.",
+  "extended": "<p>Sobald eine Karte mit dem Schlüsselwort Hindernis X aufgedeckt wird, wird X Bedrohung auf der Karte platziert. (X ist der Wert, der hinter dem Schlüsselwort angegeben ist.)</p>"
 }

@@ -1,5 +1,5 @@
 {
   "title": "Anstacheln X",
   "content": "Sobald ein Spieler eine Karte mit dem Schlüsselwort Anstacheln X aufdeckt, platziert der Spieler X Bedrohung auf dem Hauptplan.",
-  "content_long": "Sobald eine Karte mit dem Schlüsselwort Anstacheln X aufgedeckt wird, wird X Bedrohung auf dem Hauptplan platziert. (X ist der Wert, der hinter dem Schlüsselwort angegeben ist.)"
+  "extended": "<p>Sobald eine Karte mit dem Schlüsselwort Anstacheln X aufgedeckt wird, wird X Bedrohung auf dem Hauptplan platziert. (X ist der Wert, der hinter dem Schlüsselwort angegeben ist.)</p>"
 }

@@ -1,4 +1,5 @@
 {
   "title": "Sieg X",
-  "content": "Sobald eine Karte mit dem Schlüsselwort Sieg X besiegt wird, wird sie dem Siegpunktestapel hinzugefügt."
+  "content": "Sobald eine Karte mit dem Schlüsselwort Sieg X besiegt wird, wird sie dem Siegpunktestapel hinzugefügt.",
+  "extended": "<p>Sobald eine Karte mit dem Schlüsselwort Sieg X besiegt wird, wird sie auf den Siegpunktestapel gelegt, anstatt sie auf den Ablagestapel ihres Besitzers zu legen. Solange sich eine Karte im Siegpunktestapel befindet, gibt X an, wie viele Siegpunkte sie wert ist. (<em>X ist der Wert hinter dem Schlüsselwort.</em>)</p>"
 }

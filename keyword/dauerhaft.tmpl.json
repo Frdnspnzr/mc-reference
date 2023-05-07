@@ -1,4 +1,5 @@
 {
   "title": "Dauerhaft",
-  "content": "Karten mit dem Schlüsselwort Dauerhaft können das Spiel nicht verlassen"
+  "content": "Karten mit dem Schlüsselwort Dauerhaft können das Spiel nicht verlassen",
+  "extended": "<p>Eine Karte mit dem Schlüsselwort Dauerhaft kann das Spiel nicht verlassen.<p><ul><li>Falls ein Spieler aus dem Spiel ausscheidet, solange sich in seiner Spielzone eine Karte mit dem Schlüsselwort Dauerhaft befindet, die er nicht besitzt, wird die Karte auf den Ablagestapel ihres Besitzers gelegt.</li></ul>"
 }

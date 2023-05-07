@@ -1,4 +1,5 @@
 {
   "title": "Wache",
-  "content": "Solange ein Scherge mit dem Schlüsselwort Wache im Kampf mit einem Spieler ist, kann dieser Spieler den Schurken nicht angreifen."
+  "content": "Solange ein Scherge mit dem Schlüsselwort Wache im Kampf mit einem Spieler ist, kann dieser Spieler den Schurken nicht angreifen.",
+  "extended": "<p>Solange ein Scherge mit dem Schlüsselwort Wache mit einem Spieler im Kampf ist, kann dieser Spieler keine von ihm kontrollierten Karten verwenden, um einen Schurken ohne das Schlüsselwort Wache anzugreifen.</p>"
 }

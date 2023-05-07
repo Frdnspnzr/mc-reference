@@ -12,7 +12,7 @@
       </h1>
       <p class="short">{{ content | safe }}</p>
       {% if extended %}
-        <p>{{ extended | safe}}</p>
+        {{ extended | safe}}
       {% endif %}
     </main>
   </body>

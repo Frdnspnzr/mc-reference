@@ -1,4 +1,5 @@
 {
   "title": "Wagnis",
-  "content": "Solange ein Spieler eine Karte mit dem Schlüsselwort Wagnis abhandelt, können ihm andere Spieler nicht helfen."
+  "content": "Solange ein Spieler eine Karte mit dem Schlüsselwort Wagnis abhandelt, können ihm andere Spieler nicht helfen.",
+  "extended": "<p>Solange ein Spieler eine Karte mit dem Schlüsselwort Wagnis abhandelt, kann er sich nicht mit anderen Spielern beraten und andere Spieler können keine Karten spielen oder Fähigkeiten auslösen.</p>"
 }

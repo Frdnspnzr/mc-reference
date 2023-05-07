@@ -1,4 +1,5 @@
 {
   "title": "Anwendungen (X „Art“)",
-  "content": "Sobald eine Karte mit diesem Schlüsselwort ins Spiel kommt, werden X Universalmarker aus dem Markervorrat auf die Karte gelegt. Nachdem der letzte Marker einer Karte mit dem Schlüsselwort Anwendung ausgegeben (<em>und der Effekt abgehandelt</em>) worden ist, wird die Karte abgelegt."
+  "content": "Sobald eine Karte mit diesem Schlüsselwort ins Spiel kommt, werden X Universalmarker aus dem Markervorrat auf die Karte gelegt. Nachdem der letzte Marker einer Karte mit dem Schlüsselwort Anwendung ausgegeben (<em>und der Effekt abgehandelt</em>) worden ist, wird die Karte abgelegt.",
+  "extended": "<p>Sobald eine Karte mit diesem Schlüsselwort ins Spiel kommt, werden X Universalmarker aus dem Markervorrat auf die Karte gelegt. Das Wort nach dem Wert legt die Art der Anwendungen der Karte fest und gibt ihnen eine Bezeichnung.</p><p>Jede Karte mit diesem Schlüsselwort hat auch eine Fähigkeit, deren Kosten zumindest teilweise mit der soeben festgelegten Anwendungsart zu tun haben.</p><p>Nachdem der letzte Marker einer Karte mit dem Schlüsselwort Anwendung ausgegeben (und der Effekt abgehandelt) worden ist, wird die Karte abgelegt.</p>"
 }

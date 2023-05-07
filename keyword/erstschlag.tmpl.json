@@ -1,4 +1,5 @@
 {
   "title": "Erstschlag",
-  "content": "Nachdem dieser Gegner einen Spieler in einen Kampf verwickelt hat, greift er den Spieler sofort an, falls der Spieler sich in seiner Heldengestalt befindet."
+  "content": "Nachdem dieser Gegner einen Spieler in einen Kampf verwickelt hat, greift er den Spieler sofort an, falls der Spieler sich in seiner Heldengestalt befindet.",
+  "extended": "<p>Nachdem ein Scherge mit dem Schlüsselwort Erstschlag einen Spieler, dessen Identität in Heldengestalt ist, in einen Kampf verwickelt hat, greift der Scherge den Spieler an.</p>"
 }

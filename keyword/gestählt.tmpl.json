@@ -1,4 +1,5 @@
 {
   "title": "Gestählt",
-  "content": "Charaktere mit dem Schlüsselwort Gestählt können nicht betäubt oder verwirrt werden."
+  "content": "Charaktere mit dem Schlüsselwort Gestählt können nicht betäubt oder verwirrt werden.",
+  "extended": "<p>Ein Charakter mit dem Schlüsselwort Gestählt kann nicht betäubt oder verwirrt werden.</p><ul><li>Falls ein Charakter das Schlüsselwort Gestählt erhält, solange er eine Betäubt- und/oder Verwirrt-Statuskarte hat, wird jede Betäubt- und/oder Verwirrt-Statuskarte von dem Charakter entfernt.</li></ul>"
 }

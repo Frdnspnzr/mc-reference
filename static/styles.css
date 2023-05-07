@@ -34,16 +34,20 @@ main {
   min-height: 100vh;
 }
 
-ul {
+ul.list {
   list-style-type: none;
   display: grid;
   gap: 0.5rem;
 }
 
-li {
+.list li {
   background-color: var(--bg-content);
   font-size: 2rem;
   padding: 0.5rem;
+}
+
+.keyword li {
+  margin-left: 3rem;
 }
 
 a,
@@ -64,18 +68,15 @@ h1 {
   main {
     max-width: unset;
     width: 100%;
+    font-size: 3.5rem;
   }
 
   main.keyword {
     padding: 2rem;
   }
 
-  li {
+  .list li {
     font-size: 5rem;
-  }
-
-  p {
-    font-size: 3.5rem;
   }
 
   h1 {

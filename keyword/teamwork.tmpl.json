@@ -1,4 +1,5 @@
 {
   "title": "Teamwork",
-  "content": "Karten mit dem Schlüsselwort Teamwork können nicht gespielt werden, bis beide durch das Schlüsselwort aufgelistete Charaktere im Spiel sind."
+  "content": "Karten mit dem Schlüsselwort Teamwork können nicht gespielt werden, bis beide durch das Schlüsselwort aufgelistete Charaktere im Spiel sind.",
+  "extended": "<p>Das Schlüsselwort Teamwork gibt zwei Charaktere an. Um eine Karte mit dem Schlüsselwort Teamwork in ein Deck aufnehmen zu können, muss die gewählte Identität mit einem der angegebenen Charaktere übereinstimmen. Darüber hinaus kann eine Karte mit dem Schlüsselwort Teamwork nicht gespielt werden, bis beide angegebenen Charaktere (<em>Held oder Verbündeter</em>) im Spiel sind.</p>"
 }
