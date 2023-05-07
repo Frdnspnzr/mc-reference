@@ -1,7 +1,7 @@
 import lume from "lume/mod.ts";
+import json from "lume/plugins/json.ts";
 
 const site = lume();
-site.copy("static");
-site.ignore("README.md");
+site.use(json()).copy("static").ignore("README.md");
 
 export default site;
