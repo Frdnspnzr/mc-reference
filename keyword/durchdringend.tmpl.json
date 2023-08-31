@@ -1,5 +1,5 @@
 {
   "title": "Durchdringend",
-  "content": "Angriffe mit dem Schlüsselwort Durchdringend legen Zäh-Statuskarten vom Ziel ab, bevor Schaden zugefügt wird.",
-  "extended": "<p>Bei einem Angriff mit dem Schlüsselwort Durchdringend werden alle Zäh-Statuskarten, die das Ziel des Angriffs hat, abgelegt, bevor Schaden zugefügt wird.</p>"
+  "content": "Angriffe mit dem Schlüsselwort Durchdringend legen Zäh-Statuskarten vom angegriffenen Charakter ab, bevor Schaden zugefügt wird.",
+  "extended": "<p>Bei einem Angriff mit dem Schlüsselwort Durchdringend werden alle Zäh-Statuskarten, die der angegriffene Charakter hat, abgelegt, bevor Schaden zugefügt wird.</p>"
 }

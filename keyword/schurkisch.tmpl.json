@@ -1,5 +1,5 @@
 {
   "title": "Schurkisch",
   "content": "Sobald ein Scherge mit dem Schlüsselwort Schurkisch aktiviert wird, wird ihm eine Boost-Karte gegeben.",
-  "extended": "<p>Sobald ein Scherge mit dem Schlüsselwort Schurkisch aktiviert wird, wird ihm eine verdeckte Boost-Karte vom Begegnungsdeck gegeben. Sobald ein Spieler die Aktivierung des Schergen abhandelt, dreht er die Boost-Karte um und wendet ihre Boost-Symbole für diese Aktivierung auf die Werte des Schergen an. Falls die Boost-Karte eine BoostFähigkeit hat, werden deren Effekte abgehandelt. Nach der Aktivierung wird die Boost-Karte abgelegt.</p>"
+  "extended": "<p>Sobald ein Scherge mit dem Schlüsselwort Schurkisch aktiviert wird, wird ihm eine verdeckte Boost-Karte vom Begegnungsdeck gegeben. Sobald ein Spieler die Aktivierung des Schergen abhandelt, dreht er die Boost-Karte um und wendet ihre Boost-Symbole für diese Aktivierung auf die Werte des Schergen an. Falls die Boost-Karte eine BoostFähigkeit hat, werden deren Effekte abgehandelt. Nach der Aktivierung wird die Boost-Karte abgelegt.</p><ul><li>Falls sich eine Boost-Fähigkeit auf einer Boost-Karte, die einem Schergen zugeteilt ist, auf den „Schurken“ bezieht, wird die Fähigkeit dennoch auf den Schurken angewendet (auch wenn sie ein Scherge abhandelt).</li></ul>"
 }

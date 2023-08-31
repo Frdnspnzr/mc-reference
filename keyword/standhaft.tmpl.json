@@ -1,0 +1,5 @@
+{
+  "title": "Standhaft",
+  "content": "Ein Charakter mit dem Schlüsselwort Standhaft kann nicht betäubt oder verwirrt werden, außer er hat 2 der gleichen Statuskarten.",
+  "extended": "<p>in Charakter mit dem Schlüsselwort Standhaft kann 1 zusätzliche Betäubt- und 1 zusätzliche Verwirrt-Statuskarte haben. Der Charakter ist nicht betäubt, bis er 2 Betäubt-Statuskarten hat, und ist nicht verwirrt, bis er 2 Verwirrt-Statuskarten hat. Nachdem die Aktivierung des Charakters durch einen Statuskarteneffekt ersetzt worden ist, werden alle Statuskarten jenes Typs von dem Charakter entfernt</p>"
+}

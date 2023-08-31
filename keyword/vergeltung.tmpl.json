@@ -1,5 +1,5 @@
 {
   "title": "Vergeltung X",
   "content": "Nachdem ein Charakter mit dem Schlüsselwort Vergeltung X angegriffen worden ist, füge dem angreifenden Charakter X Schaden zu.",
-  "extended": "<p>Nachdem ein Charakter mit dem Schlüsselwort Vergeltung X angegriffen worden ist, füge dem angreifenden Charakter X Schaden zu. (<em>X ist der Wert, der hinter dem Schlüsselwort angegeben ist.</em>)</p><ul><li>Der Charakter mit dem Schlüsselwort Vergeltung X muss den Angriff überleben, um diesen Schaden zufügen zu können.</li></ul>"
+  "extended": "<p>Nachdem ein Charakter mit dem Schlüsselwort Vergeltung X angegriffen worden ist, füge dem angreifenden Charakter X Schaden zu. (<em>X ist der Wert, der hinter dem Schlüsselwort angegeben ist.</em>)</p><ul><li>Der Charakter mit dem Schlüsselwort Vergeltung X muss den Angriff überleben, um diesen Schaden zufügen zu können.</li><li>Die Reihenfolge der Abhandlung von Fähigkeiten, die das Schlüsselwort X betreffen, ist wie folgt:<ol><li> Fähigkeiten, die ausgelöst werden, „nachdem [ein Charakter] eine beliebige Menge an Schaden nimmt“</li><li>Vergeltung X</li><li>Fähigkeiten, die ausgelöst werden, „nachdem [ein Charakter] angegriffen hat“ oder „nachdem [ein Charakter] [einen Charakter] angegriffen [und ihn beschädigt] hat“)</li></ol></li></ul>"
 }

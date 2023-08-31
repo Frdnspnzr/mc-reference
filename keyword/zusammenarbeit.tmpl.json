@@ -1,0 +1,5 @@
+{
+  "title": "Zusammenarbeit (Merkmal)",
+  "content": "Nachdem ein Scherge mit dem Schlüsselwort Zusammenarbeit ins Spiel gekommen ist und einen Spieler in einen Kampf verwickelt hat, wird überprüft, ob mindestens ein weiterer Scherge mit demselben angegebenen Merkmal im Spiel ist. Falls dies der Fall ist, wird jeder Scherge mit dem Schlüsselwort Zusammenarbeit und dem angegebenen Merkmal gegen den Spieler aktiviert, mit dem er im Kampf ist.",
+  "extended": "<p>Nachdem ein Scherge mit dem Schlüsselwort Zusammenarbeit ins Spiel gekommen ist und einen Spieler in einen Kampf verwickelt hat, wird überprüft, ob mindestens ein weiterer Scherge mit demselben angegebenen Merkmal im Spiel ist. Falls dies der Fall ist, wird jeder Scherge mit dem Schlüsselwort Zusammenarbeit und dem angegebenen Merkmal gegen den Spieler aktiviert, mit dem er im Kampf ist.</p>"
+}

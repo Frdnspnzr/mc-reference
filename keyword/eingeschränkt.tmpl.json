@@ -1,5 +1,5 @@
 {
   "title": "Eingeschränkt",
   "content": "Ein Spieler darf zu keinem Zeitpunkt mehr als zwei eingeschränkte Karten im Spiel kontrollieren.",
-  "extended": "<p>Ein Spieler darf zu keinem Zeitpunkt mehr als zwei Karten mit dem Schlüsselwort Eingeschränkt im Spiel kontrollieren. Falls er jemals mehr als zwei eingeschränkte Karten im Spiel kontrolliert, muss er sofort eingeschränkte Karten, die er kontrolliert, wählen und aus dem Spiel ablegen, bis er nur noch zwei hat.</p>"
+  "extended": "<p>Ein Spieler darf zu keinem Zeitpunkt mehr als zwei Karten mit dem Schlüsselwort Eingeschränkt im Spiel kontrollieren.</p><p>Ein Spieler kann Karten mit dem Schlüsselwort Eingeschränkt spielen oder ins Spiel bringen, auch wenn er bereits 2 einägeschränkte Karten kontrolliert. Falls er aber jemals mehr als zwei eingeschränkte Karten im Spiel kontrolliert, muss er sofort eingeschränkte Karten, die er kontrolliert, wählen und aus dem Spiel ablegen, bis er nur noch zwei hat.</p>"
 }

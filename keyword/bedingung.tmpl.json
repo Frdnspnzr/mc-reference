@@ -1,0 +1,5 @@
+{
+  "title": "Bedingung (Ressourcen)",
+  "content": "Eine Karte mit dem Schlüsselüwort Bedingung kann nur gespielt werden, wenn beim Bezahlen der Kosten dieser Karte jede Ressource des angegebenen Typs ausgegeben wird.",
+  "extended": "<ul><li>Eine Karte mit dem Schlüsselwort Bedingung kann nicht gespielt werden, wenn dabei „ihre Ressourcenkosten ignoriert“ werden, da dann die verlangten Ressourcen nicht bezahlt werden können.</li></ul>"
+}
